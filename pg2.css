@@ -90,8 +90,9 @@ header > p {
 }
 
 #target{
+    width: 50%;
     height: 180px;
-    padding-left: 100px;
+    padding-left: 350px;
     padding-right: 100px;
     padding-top: 20px;
 }
